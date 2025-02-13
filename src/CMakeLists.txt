@@ -33,6 +33,7 @@ set(srcs
   N2kGroupFunctionDefaultHandlers.cpp
   N2kMaretron.cpp
   NMEA2000.cpp
+  NMEA2000_SocketCAN.cpp
 )
 
 if(ESP_PLATFORM)
